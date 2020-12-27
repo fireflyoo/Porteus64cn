@@ -3,7 +3,8 @@
 2020-12-26 增加 小小输入法 安装包  
 安装包使用方法：  
 把安装包扔到/mnt/live/porteus/modules/目录下重启就行了
-常见命令：
+
+常用命令：
 ```bash
 active yong*.xzm #临时安装（重启失效）
 deactive yong*.xzm #临时卸载（重启失效）
